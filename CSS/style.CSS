@@ -1,0 +1,435 @@
+#topbar {
+    width: 1280px;
+    margin: 0 auto;
+    height: 45px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#bbclogo {
+    height: 40px;
+    margin-top: 7px;
+    margin-right: 5px;
+    float: left;
+}
+
+.topbar-section {
+    float: left;
+    border-left: 1px grey solid;
+    height: 100%;
+}
+
+#blackcircle {
+    width: 35px;
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-right: 8px;
+    float: left;
+}
+
+#signintext {
+    font-weight: bold;
+    padding-right: 60px;
+    position: relative;
+    top: 20px;
+    font-size: 90%;
+}
+
+.mainheads {
+    position: relative;
+    top: 19px;
+    left: 17px;
+    padding-right: 35px;
+    font-weight: bold;
+    font-size: 85%;
+}
+
+#morearrow {
+    float: left;
+    margin-top: 15px;
+    margin-left: 50px;
+    width: 35px;
+}
+
+#more {
+    position: relative;
+    top: 19px;
+    left: 17px;
+    float: left;
+    font-weight: bold;
+    font-size: 85%;
+}
+
+#search {
+    border: 0px;
+    background-color: #e4e4e4;
+    margin-left: 11px;
+    margin-top: 14px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    color: #858585;
+    float: left;
+}
+
+#searchicon {
+    margin-top: 14px;
+    width: 23px;
+    height: 27px;
+}
+
+.clear {
+    clear: both;
+}
+
+#bigredbar {
+    width: 100%;
+    height: 55px;
+    background-color: #BB1919;
+}
+
+#innerredbar {
+    width: 1280px;
+    height: 45px;
+    margin: 0 auto;
+}
+
+#bignews {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding-top: 3px;
+}
+
+#secondredcontainer {
+    width: 100%;
+    height: 30px;
+    background-color: #BB1919;
+}
+
+#secondredmenu {
+    width: 1280px;
+    margin: 0 auto;
+    height: 20px;
+    background-color: #BB1919;
+}
+
+.redmenu {
+    float: left;
+    border-right: 1px rgb(146, 126, 126) solid;
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 90%;
+    color: white;
+    padding-right: 15px;
+    padding-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#menuarrow {
+    width: 25px;
+    height: 20px;
+    position: relative;
+    top: 1px;
+}
+
+#pagecontainer {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.headingtwo {
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+    border-bottom: 2px solid #a91717;
+    width: 105px;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #10101B;
+}
+
+h1 a:hover {
+    color: #1167a8;
+}
+
+#articlesummary {
+    width: 250px;
+    color: #5A5A5A;
+    float: left;
+}
+
+.clock {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 3px;
+    padding-right: 2px;
+}
+
+#hr1 {
+    border: 1px solid red;
+    width: 50%;
+}
+
+#playbutton {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 4px;
+    margin: 0;
+    padding: 0;
+}
+
+#article-link {
+    text-decoration: none;
+    color: #10101B;
+}
+
+#article-link:hover {
+    color: #1167aB;
+}
+
+#article-image {
+    width: 500px;
+    margin-left: 10px;
+    height: 260px;
+}
+
+#articlecontainer {
+    float: left;
+    width: 770px;
+    border-right: 1px solid #cccccc;
+    padding-right: 2px;
+}
+
+#main-article {
+    float: left;
+}
+
+#article-right {
+    margin: 0 auto;
+    width: 440px;
+    float: left;
+}
+
+#watch-Listen {
+    text-decoration: none;
+    font-weight: normal;
+    padding-left: 10px;
+    color: #1D1D1B;
+}
+
+#first-right-article {
+    width: 530px;
+}
+
+.right-h4 {
+    float: left;
+}
+
+.right-article-video {
+    float: left;
+    width: 170px;
+    height: 95px;
+    border: 5px solid white;
+}
+
+.right-article-heading {
+    width: 360px;
+    height: 95px;
+}
+
+#first-right-article a {
+    text-decoration: none;
+}
+
+#topbarfooter {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#footerleftpart {
+    font-weight: bold;
+    margin-top: 4px;
+    font-size: 20px;
+    width: 200px;
+    color: #10101B;
+    float: left;
+    padding-bottom: 3px;
+    padding-right: 0px;
+}
+
+#footerright {
+    width: auto;
+}
+
+#hr2 {
+    border: 1px solid #cccccc;
+    position: relative;
+    top: 45px;
+    margin: 0;
+    padding: 0;
+}
+
+#secondlastfooter {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#secondlastfooter1 {
+    float: left;
+    border-right: 1px solid #cccccc;
+    height: 120px;
+    width: 500px;
+    padding-right: 2px;
+}
+
+#facebook {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-right: 50px;
+    margin-left: 20px;
+}
+
+#instagram {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-right: 50px;
+    margin: 0;
+}
+
+#twitter {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding-right: 150px;
+}
+
+.secondlastfooter2 {
+    float: left;
+    width: 300px;
+}
+
+#newsdaily {
+    width: 45px;
+    height: 50px;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-right: 1px solid rgb(44, 42, 42);
+}
+
+#NEWS {
+    float: left;
+    font-weight: normal;
+    font-size: normal;
+    padding-left: 5px;
+    margin: 0;
+    padding-right: 5px;
+    padding-top: 8px;
+}
+
+#DAILY {
+    font-weight: normal;
+    font-size: 23px;
+    padding-left: 5px;
+    margin: 0;
+    padding-right: 5px;
+    padding-top: 9px;
+    color: rgb(61, 58, 58);
+}
+
+#Newsdailytext {
+    width: 280px;
+    text-decoration: none;
+    color: #10101B;
+    padding-top: 7px;
+    float: left;
+    padding-left: 4px;
+}
+
+:hover {
+    color: #1167a8;
+}
+
+#emailpart {
+    padding-top: 5px;
+}
+
+.footerlast {
+    background-color: rgb(61, 57, 57);
+    width: 100%;
+    height: 60px;
+}
+
+.innerfooter {
+    background-color: rgb(61, 57, 57);
+    width: 1280px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+#explorethebbc {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding-top: 15px;
+}
+
+.footermenu {
+    background-color: rgb(61, 57, 57);
+    width: 100%;
+    height: 60px;
+}
+
+.innerfootermenu {
+    background-color: rgb(61, 57, 57);
+    width: 1280px;
+    height: 38px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.menu {
+    border-right: 1px #cccccc solid;
+    height: 45px;
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-right: 140px;
+    background-color: rgb(61, 57, 57);
+    float: left;
+    padding-left: 15px;
+}
+
+#hrfooter {
+    color: #cccccc;
+    width: 1280px;
+}
+
+#footertext {
+    width: 1280px;
+    color: white;
+}
